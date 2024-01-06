@@ -1,0 +1,1 @@
+Workout Tracker is a full stack application written in MERN, utilizing the MongoDB, ExpressJS, React, and Node.js technologies to create a simple and user-friendly application to track exercise routines. ![image](https://github.com/aaron-parker-CS/Workout-Tracker/assets/104158305/f7e7a769-aa2f-4d7e-be4c-ef7d04b1cc3c)
